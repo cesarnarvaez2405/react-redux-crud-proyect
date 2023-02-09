@@ -3,8 +3,8 @@ import { createSlice } from "@reduxjs/toolkit";
 const initialState = [
     {
         id: "1",
-        title: "Titulo de preuba",
-        description: "Esta es la descripcion del titulo de prueba",
+        title: "Nota de bloc",
+        description: "Lorem ipsum odor amet, consectetuer adipiscing elit. Rhoncus mauris sit hac vivamus semper. Inceptos eros netus ut curabitur ipsum lectus fermentum. Hendrerit congue eros fames litora augue sociosqu. Dui enim bibendum elit sagittis etiam cubilia. Tempus ut aliquet vivamus quisque vestibulum finibus. Efficitur ante himenaeos ligula vivamus orci luctus.",
         completed: false
     }
 ]
